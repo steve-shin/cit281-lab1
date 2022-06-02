@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 stevenshinmachi  staff    0 Apr  5 20:32 lab-01-folders.txt
+drwxr-xr-x  4 stevenshinmachi  staff  128 Mar 31 13:44 p1
+drwxr-xr-x  2 stevenshinmachi  staff   64 Mar 31 13:37 p2
+drwxr-xr-x  2 stevenshinmachi  staff   64 Mar 31 13:37 p3
+drwxr-xr-x  2 stevenshinmachi  staff   64 Mar 31 13:37 p4
+drwxr-xr-x  2 stevenshinmachi  staff   64 Mar 31 13:37 p5
+drwxr-xr-x  2 stevenshinmachi  staff   64 Mar 31 13:37 p6
+drwxr-xr-x  2 stevenshinmachi  staff   64 Mar 31 13:37 p7
+drwxr-xr-x  2 stevenshinmachi  staff   64 Mar 31 13:37 p8
